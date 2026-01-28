@@ -1,4 +1,6 @@
 
+vless://e114f1eb-f114-4d7f-b26e-ac094c0c9e2c@v1.asdc.ir:5151?path=%2F1&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#R1-5151-SmartVpn
+
 #vless://c11d85ef-c7e4-450e-ad2f-965bfc94fa9d@smartvpn.asdc.ir:9909?path=%2F&security=none&encryption=none&type=ws#Rira-LoadBlancing
 
 #vless://6fdea488-f8f0-4b7e-984b-7e6d43638517@v1.asdc.ir:9032?path=%2F&security=tls&alpn=h3%2Ch2&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#RP-SL-US-Primary
