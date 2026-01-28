@@ -7,7 +7,7 @@ vless://e114f1eb-f114-4d7f-b26e-ac094c0c9e2c@v1.asdc.ir:5151?path=%2F1&security=
 
 #vless://3863bfa8-8f71-481b-9f75-f3cff239101e@v2.asdc.ir:4141?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#4141-NU1
 
-#vless://0a663685-0f5e-459e-9865-26e21f528873@ov.arssin.com:7171?path=%2F1&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#7171-SmartVpn
+vless://0a663685-0f5e-459e-9865-26e21f528873@ov.arssin.com:7171?path=%2F1&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#7171-SmartVpn
 
 #vless://0fa3aa4d-6330-4091-a230-0accf777456e@v2.asdc.ir:6161?path=%2F&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#R-6161-FS2
 
