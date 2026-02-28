@@ -1,4 +1,13 @@
 
+vless://6629e89a-3d6b-437c-92e0-37c8a51cdae7@uk.openwrld.tk:1337?security=none&encryption=none&host=Varzesh3.com&headerType=http&type=tcp#%40Emergency4
+
+vless://70053148-6faf-4db0-9633-c3b880d926aa@2.188.212.169:9908?path=%2F&security=&encryption=none&type=ws#Emergency%202
+
+vless://e71e099e-7c97-4367-9cb2-81ea968b647b@vp.vaslima.de:1194?security=none&encryption=none&host=varzesh3.com&headerType=http&type=tcp#%40Emergency3
+
+vless://aaf7d791-c8fa-48ab-b27d-9af108553359@ov.asdc.ir:2525?security=&encryption=none&headerType=none&type=tcp#Paqet-7171%28US6%29
+
+
 vless://aa64f861-dde7-4f7b-9173-b6eeb0bb2be4@v2.asdc.ir:8181?path=%2F&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0#8181-USA-us5
 
 vless://e114f1eb-f114-4d7f-b26e-ac094c0c9e2c@v1.asdc.ir:5151?path=%2F1&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#5151-USA-us4
